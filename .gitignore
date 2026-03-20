@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+gym_memory.json
+user_profile.json
+weight.json
